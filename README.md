@@ -26,7 +26,7 @@ I am a passionate developer with a diverse skill set and a strong interest in Ma
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saivathsal)](https://git.io/streak-stats)
 
 ### 📫 Connect with Me:
-- LinkedIn: [Connect](Your LinkedIn Profile Link)
+- LinkedIn: [[Connect](Your LinkedIn Profile Link)](https://www.linkedin.com/in/saivathsal/)
 
 
 #### Thank you for visiting my GitHub profile! I believe in continuous learning and improvement, so stay tuned for more exciting projects in the future. 🚀
